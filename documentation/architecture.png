@@ -1,1 +1,38 @@
-
+┌──────────────────────┐
+│   Customer Dataset   │
+│     dataset.csv      │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ Data Preprocessing   │
+│ • Remove duplicates  │
+│ • Check missing data │
+│ • Feature selection  │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ Data Analysis        │
+│ • Customer behavior  │
+│ • Sales analysis     │
+│ • KPI calculation    │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ Visualization        │
+│ • Spending chart     │
+│ • Visit analysis     │
+│ • Churn chart        │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ Machine Learning     │
+│ Logistic Regression  │
+│ Churn Prediction     │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ Dashboard & Reports  │
+│ • KPIs               │
+│ • Predictions        │
+│ • Recommendations    │
+└──────────────────────┘
